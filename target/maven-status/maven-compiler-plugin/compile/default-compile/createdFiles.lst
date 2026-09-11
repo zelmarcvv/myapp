@@ -1,0 +1,8 @@
+myapp/zcvv/demo/ms/service/impl/UserServiceImpl.class
+myapp/zcvv/demo/ms/document/User.class
+myapp/zcvv/demo/ms/model/UserResponse.class
+myapp/zcvv/demo/ms/service/UserService.class
+myapp/zcvv/demo/ms/repository/UserRepository.class
+myapp/zcvv/demo/ms/Application.class
+myapp/zcvv/demo/ms/model/UserRequest.class
+myapp/zcvv/demo/ms/controller/UserController.class
