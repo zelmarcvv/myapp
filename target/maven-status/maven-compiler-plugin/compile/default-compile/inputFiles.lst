@@ -1,0 +1,8 @@
+/Users/zelmarvazquez/proyectos/myapp/src/main/java/myapp/zcvv/demo/ms/Application.java
+/Users/zelmarvazquez/proyectos/myapp/src/main/java/myapp/zcvv/demo/ms/controller/UserController.java
+/Users/zelmarvazquez/proyectos/myapp/src/main/java/myapp/zcvv/demo/ms/document/User.java
+/Users/zelmarvazquez/proyectos/myapp/src/main/java/myapp/zcvv/demo/ms/model/UserRequest.java
+/Users/zelmarvazquez/proyectos/myapp/src/main/java/myapp/zcvv/demo/ms/model/UserResponse.java
+/Users/zelmarvazquez/proyectos/myapp/src/main/java/myapp/zcvv/demo/ms/repository/UserRepository.java
+/Users/zelmarvazquez/proyectos/myapp/src/main/java/myapp/zcvv/demo/ms/service/UserService.java
+/Users/zelmarvazquez/proyectos/myapp/src/main/java/myapp/zcvv/demo/ms/service/impl/UserServiceImpl.java
